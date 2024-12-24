@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+groq
+selenium
+PyPDF2
+python-docx
+pandas
+webdriver_manager
+selenium-stealth
+beautifulsoup4 
